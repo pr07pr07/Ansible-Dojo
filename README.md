@@ -16,4 +16,4 @@
        Irreversible
        OpenID Connect is used to enable authentication
        Azure  AD Premium offer conditional policies to restrict access future, e.g by location or JIT
-       Integrating AKS cluster with azure AD allows fine-grained contaol over user access using Azure RBAC and Kubernetes RBAC
+       Integrating AKS cluster with azure AD allows fine-grained control over user access using Azure RBAC and Kubernetes RBAC
